@@ -1,0 +1,23 @@
+.edit-wrapper
+{
+    width: 100%;
+    padding: 10px;
+    background-color: rgb(194, 250, 166);
+}
+
+.submit
+{
+    border: none;
+    border-radius: 10px;
+    background-color: rgb(0, 255, 38);
+    width: 100px;
+    box-shadow: 5px 5px 7px rgba(0, 0, 0, 0.158);
+}
+
+.submit:hover{
+    box-shadow: none;
+}
+
+.submit:active{
+    box-shadow: inset 0px 0px 10px rgba(0, 0, 0, 0.251);
+}

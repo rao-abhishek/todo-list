@@ -1,0 +1,12 @@
+.description
+{
+    width: 200px;
+    background-color: aqua;
+    padding: 10px;
+    margin: auto;
+    margin-top: 10px;
+    border-radius: 10px;
+    font-size: 15px;
+    border: none;
+    box-shadow: 3px 3px 10px rgb(142, 142, 142);
+}

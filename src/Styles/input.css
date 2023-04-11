@@ -1,0 +1,12 @@
+.input
+{
+    border-radius: 10px;
+    width: 90%;
+    margin: auto;
+    background-color: antiquewhite;
+    padding: 10px;
+    display: flex;
+    justify-self: center;
+    border: none;
+    box-shadow: inset 0px 0px 5px rgba(0, 0, 0, 0.516);
+}
